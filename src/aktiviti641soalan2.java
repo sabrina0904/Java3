@@ -23,8 +23,14 @@ public class aktiviti641soalan2 {
         
         if (bilpelanggan <=0){
              bonus=0;
+             
+             if (bilpelanggan <=0){
+             bonus=0;
         
         }else if (bilpelanggan <=10){
+            bonus=550;
+            
+            }else if (bilpelanggan <=10){
             bonus=550;
             
         }else if (bilpelanggan <=50){
